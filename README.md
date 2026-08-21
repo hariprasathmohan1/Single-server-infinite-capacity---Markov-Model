@@ -78,5 +78,5 @@ print("---------------------------------------------------------------")
 <img width="712" height="332" alt="Exp 4 pro" src="https://github.com/user-attachments/assets/4cc77cfc-a89b-47d2-a9fb-4fc41fb0e835" />
 
 
-## Result :
+## Result :Hence the ls ,  lq,  ws , wq are Calculated. 
 
